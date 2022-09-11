@@ -8,7 +8,10 @@ export const Header = () => {
     <Container>
       <Logo>Exercícios</Logo>
       <Navigator />
-      <Button href="https://github.com/alexandrevelozo" target="_blank">
+      <Button
+        href="https://github.com/alexandrevelozo/desafio-pratico-modalgr"
+        target="_blank"
+      >
         <GithubLogo />
       </Button>
     </Container>
