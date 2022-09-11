@@ -6,4 +6,13 @@ export const Container = styled.div`
   justify-content: space-evenly;
 
   width: 40vw;
+
+  @media (max-width: 980px) {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+    width: 100vw;
+  }
 `;

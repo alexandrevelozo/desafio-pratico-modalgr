@@ -11,6 +11,17 @@ export const Container = styled.div`
 
   padding: 0 36px 0 36px;
   border-bottom: 1px solid #29292e;
+
+  @media (max-width: 980px) {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+    height: 140px;
+
+    padding: 0 16px 0 16px;
+  }
 `;
 
 export const Logo = styled.span`
@@ -38,6 +49,15 @@ export const Button = styled.a`
 
   &:hover {
     border: 2px solid #0085b8;
+  }
+
+  @media (max-width: 980px) {
+    width: 32px;
+    height: 32px;
+
+    position: absolute;
+    right: 32px;
+    top: 30px;
   }
 `;
 

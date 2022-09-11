@@ -28,4 +28,10 @@ export const Container = styled.div`
       font-size: 26px;
     }
   }
+
+  @media (max-width: 560px) {
+    div {
+      width: 80vw;
+    }
+  }
 `;
