@@ -1,5 +1,6 @@
-import { Container } from "./styles";
 import { NavLink } from "react-router-dom";
+
+import { Container } from "./styles";
 
 const Navigator = () => {
   return (

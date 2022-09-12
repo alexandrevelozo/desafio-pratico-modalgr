@@ -1,5 +1,6 @@
 import { GlobalStyle } from "./style/GlobalStyle";
 import RoutesApp from "./routes";
+
 const App = () => {
   return (
     <>

@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 import {
   Container,
   Div,
@@ -9,7 +11,7 @@ import {
   LogoModal,
   ImageCollaborator,
 } from "./styles";
-import { useState } from "react";
+
 import Header from "../Header";
 import Card from "../Card";
 

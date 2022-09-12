@@ -13,9 +13,11 @@ export const Div = styled.div`
   align-items: flex-start;
   flex-direction: column;
 `;
+
 export const Label = styled.label`
   font-size: 18px;
 `;
+
 export const Input = styled.input`
   width: 400px;
   height: 50px;

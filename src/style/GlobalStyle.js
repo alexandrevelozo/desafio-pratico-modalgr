@@ -1,4 +1,5 @@
 import { createGlobalStyle } from "styled-components";
+
 import background from "../assets/background-image.png";
 
 export const GlobalStyle = createGlobalStyle`
@@ -18,11 +19,9 @@ export const GlobalStyle = createGlobalStyle`
   font-family: 'Nunito', 'Times New Roman', Times, serif;
  }
 
-
-  html, body, #root {
-    min-height: 100vh;
-    background: linear-gradient(180deg,#121214,rgba(18,18,20,0)), url(${background}) no-repeat center center;
-    background-size: cover;
-  }
-
+html, body, #root {
+  min-height: 100vh;
+  background: linear-gradient(180deg,#121214,rgba(18,18,20,0)), url(${background}) no-repeat center center;
+  background-size: cover;
+}
 `;
