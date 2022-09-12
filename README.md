@@ -1,4 +1,8 @@
-<div align="left">
+<div align="center">
+
+  <p><b>Desafio Prático</b></p>
+
+  <br/>
 
   <a href="https://www.linkedin.com/in/alexandre-velozo-70626019b/">
       <img alt="Alexandre Velozo" src="https://img.shields.io/badge/-alexandrevelozo-0085b8?style=flat&logo=Linkedin&logoColor=121214" />
@@ -34,14 +38,14 @@
 
 <span>developing...</span>
 
-<img src="https://github.com/alexandrevelozo/desafio-pratico-modalgr/.github/exercise-one.png" alt="Exercício 1" />
-<br/>&nbsp;
+<img src=".github/exercise-one.png" alt="flex" height="700" width="1200" />
+  <br/>&nbsp;
 
-<img src="https://github.com/alexandrevelozo/desafio-pratico-modalgr/.github/exercise-two.png" alt="Exercício 2" />
-<br/>&nbsp;
+<img src=".github/exercise-two.png" alt="flex" height="700" width="1200" />
+  <br/>&nbsp;
 
-<img src="https://github.com/alexandrevelozo/desafio-pratico-modalgr/.github/exercise-three.png" alt="Exercício 3" />
-<br/>&nbsp;
+<img src=".github/exercise-three.png" alt="flex" height="700" width="1200" />
+  <br/>&nbsp;
 
 <h2 id="techs"> Technologies </h2>
 
