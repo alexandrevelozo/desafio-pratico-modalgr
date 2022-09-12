@@ -20,6 +20,8 @@
   
   <p>Project carried out during the <b>practical challenge Modal GR</b></p>
 
+  <p>Link deploy: <br> https://desafio-pratico-modalgr.vercel.app/</p>
+
 </div>
 
 <br>
